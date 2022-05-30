@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ashish Hansda</title>
+    <link rel="stylesheet" href="C:\Users\ashis\OneDrive\Desktop\CSS My Site\styles.css">
+    <link rel="icon" href="C:\Users\ashis\OneDrive\Desktop\CSS My Site\favicon (3).ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather&family=Montserrat&family=Sacramento&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <div class="main-top">
+        <img class="cloud1" src="C:\Users\ashis\OneDrive\Desktop\CSS My Site\cloud12.png" alt="cloud">
+        <h1>I'm Ashish </h1>
+        <h2>A <span class="dev">Pro</span>grammer</h2>
+        <p><img class="cloud2" src="C:\Users\ashis\OneDrive\Desktop\CSS My Site\cloud12.png" alt="cloud"></p>
+        <img src="C:\Users\ashis\OneDrive\Desktop\CSS My Site\mountain.png" alt="mountain" height="350" width="550">
+
+
+    </div>
+    <div class="middle-container">
+        <div class="profile">
+            <img class="imgborder" src="C:\Users\ashis\OneDrive\Desktop\CSS My Site\profile1.jpg" alt="Ashish Hansda"
+                height="150px" width="150px">
+
+            <h2>Hello.</h2>
+            <p class="intro">I am a Web Developer.</p>
+            <p class="intro"> I'm innovative , task-Driven with a proficient completion of task before deadline.
+
+                I have a passion for web design and love to create for web and mobile devices.</p>
+        </div>
+        <hr>
+        <div class="skills">
+            <h2>My Skills.</h2>
+            <div class="skill-row">
+                <img class="design-img" src="C:\Users\ashis\OneDrive\Desktop\CSS My Site\design.png"
+                    alt="Design & Development" height="350" width="350">
+                <h3>Design & Development</h3>
+                <p>I started learning to code when I was 17 years old because I wanted to make my own video games. I am
+                    efficient in designing and developing mobile and web applications.</p>
+            </div>
+            <div class="skill-row">
+                <img class="chilliborder" src="C:\Users\ashis\OneDrive\Desktop\CSS My Site\chilli.jpg" alt=""
+                    height="300" width="300">
+                <h3>Hot Wings Challenge</h3>
+                <p>But my best skill is actually in eating hot wings chillies. I am the undisputed king of hot wing
+                    challenges. Ghost Peppers and Carolina Reapers are my favourite snacks.</p>
+            </div>
+        </div>
+        <hr>
+        <div class="contact-me">
+            <h2>Get In Touch</h2>
+            <h3>If you love hot wings as much as I do.</h3>
+            <p class="contact-psg">Love hot wings as much as I do? Let's talk about how awesome they are! We can code
+                while we eat hot
+                wings!</p>
+            <a class="btn" href="mailto:ashishhansda21@gmail.com">CONTACT ME</a>
+        </div>
+    </div>
+    <br>
+
+    <div class="bottom-container">
+        <a class="footer-link" href="https://www.linkedin.com/in/ashish-hansda-6265251b4">LinkedIn</a>
+        <a class="footer-link" href="https://twitter.com/AshishH02553568?t=8PsBXZH6nJ45dK4S-fqykg&s=08">Twitter</a>
+        <a class="footer-link" href="https://www.instagram.com/hansda448/">Instagram</a>
+        <p style=" color: #EAF6F6;
+        font-size: 0.75rem;
+        padding: 20px 0;">© Ashish Hansda </p>
+    </div>
+
+</body>
+
+</html>
